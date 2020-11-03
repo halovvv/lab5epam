@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="lab5epam.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HighEduc.h" />
+    <ClInclude Include="SredObr.h" />
+    <ClInclude Include="UchZav.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
